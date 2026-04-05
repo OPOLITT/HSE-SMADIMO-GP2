@@ -1,0 +1,9 @@
+# misc
+.DS_Store
+
+# IDE
+.idea
+.vs/
+/dist/
+/tmp/
+.env/tmp/
