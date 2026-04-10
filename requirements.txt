@@ -6,3 +6,4 @@ seleniumbase
 dotenv
 openpyxl
 plotly
+scipy
