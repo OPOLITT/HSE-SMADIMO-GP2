@@ -4,3 +4,6 @@ seaborn
 requests
 seleniumbase
 dotenv
+openpyxl
+plotly
+scipy
